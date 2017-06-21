@@ -1,2 +1,2 @@
 # uva
-UVa Submissions
+Accepted UVa Submissions
